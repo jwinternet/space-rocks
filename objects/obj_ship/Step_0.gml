@@ -15,7 +15,7 @@ move_wrap(true, true, sprite_width / 2);
 
 if (keyboard_check_pressed(vk_space))
 {
+audio_play_sound(snd_zap, 1, false);
 var inst = instance_create_layer(x, y, "Instances", obj_bullet);
 inst.direction = image_angle;
 }
-
