@@ -32,7 +32,7 @@
     "spriteId": {"name":"spr_starfield_0","path":"sprites/spr_starfield_0/spr_starfield_0.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 15.0,
+    "playbackSpeed": 60.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

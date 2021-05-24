@@ -32,7 +32,7 @@
     "spriteId": {"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 60.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
