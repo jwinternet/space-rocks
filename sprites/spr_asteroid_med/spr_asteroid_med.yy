@@ -32,7 +32,7 @@
     "spriteId": {"name":"spr_asteroid_med","path":"sprites/spr_asteroid_med/spr_asteroid_med.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 60.0,
+    "playbackSpeed": 15.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
