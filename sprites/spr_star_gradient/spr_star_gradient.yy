@@ -32,7 +32,7 @@
     "spriteId": {"name":"spr_star_gradient","path":"sprites/spr_star_gradient/spr_star_gradient.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 15.0,
+    "playbackSpeed": 30.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
