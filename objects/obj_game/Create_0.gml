@@ -10,3 +10,12 @@ enum factions {
 	ally,
 	enemy
 }
+
+enum powerups {
+	two_bullets,
+	three_bullets,
+	four_bullets,
+	star_bullets,
+	laser_bullets,
+	invincible
+}

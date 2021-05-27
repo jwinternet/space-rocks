@@ -14,7 +14,7 @@ if(point_distance(x, y, obj_ship.x, obj_ship.y) < 250){
 	//fire_bullet
 	bulletCounter++;
 	if(bulletCounter >= 60){
-		create_bullet(image_angle, 4, faction, other.id);
+		create_bullet(x, y, image_angle, 4, faction, other.id);
 		bulletCounter = 0;
 	}
 	
