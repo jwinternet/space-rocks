@@ -12,7 +12,7 @@ motion_add(image_angle, 0.05);
 }
 
 if (keyboard_check_pressed(vk_space)){
-	create_bullet(image_angle, bulletSpd, faction, other.id);
+	create_bullet(x, y, image_angle, bulletSpd, faction, other.id, guns);
 }
 
 move_wrap(true, true, sprite_width / 2);
