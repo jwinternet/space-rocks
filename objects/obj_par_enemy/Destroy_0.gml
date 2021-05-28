@@ -5,6 +5,8 @@ repeat(10){
 	instance_create_layer(x, y, "Instances", obj_debris);
 }
 
+global.cameraShake = 4;
+
 switch(object_index){
 	case obj_raider: score += 15; break;
 	case obj_hunter: score += 30; break;
