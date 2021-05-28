@@ -1,5 +1,7 @@
 /// @description 
 
+event_inherited();
+
 image_index = HP - 1;
 
 //if player exists

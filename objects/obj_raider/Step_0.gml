@@ -1,5 +1,6 @@
 /// @description
 
+event_inherited();
 
 //if player exists
 if(!instance_exists(obj_ship)) exit;
